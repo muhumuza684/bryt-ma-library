@@ -32,7 +32,8 @@ bryt-ma-library/
 ├── books/                  ← concept, structure, and research notes per title
 ├── front-matter/           ← cover copy, title, subtitle, intro, appendices per title
 ├── SOURCES/                ← research notes for fact-heavy books (kept out of the manuscript itself)
-└── PROMPTS/                ← master prompts for generating full manuscripts with an AI writing assistant
+├── PROMPTS/                ← master prompts for generating full manuscripts with an AI writing assistant
+└── VISUALS/                ← illustration briefs (cartoon/anime style) for chapter art, avoiding real photos
 ```
 
 ## How to Use This Repo
