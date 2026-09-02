@@ -1,24 +1,36 @@
 # Bryt Ma Library
 
-A working library of book concepts, structures, research notes, and drafts. Each file in `/books` is a standalone reference document for one project — detailed enough to pick up and continue writing at any time, from anywhere.
+A working library of book concepts, structures, front matter, and research guidance. Each title has two files: a **project file** (concept, structure, research notes, status) and a **front-matter file** (cover copy, title, subtitle, introduction, appendices). A **master guide** ties the whole library together with research and writing standards.
+
+## Start Here
+Read [`MASTER-GUIDE.md`](MASTER-GUIDE.md) before working on any book — it covers how to research each title, what to always add, and what to always avoid.
 
 ## Book Index
 
-| # | Title | Type | Status |
-|---|-------|------|--------|
-| 01 | [Similar =/= Same](books/01-similar-not-same.md) | 3-volume series (Love & Identity / Law & Justice / Faith & Belief) | Structure + pair banks locked |
-| 02 | [The Chokepoint](books/02-the-chokepoint-hormuz.md) | Anonymized geopolitical decision-making study | Full decision trees drafted, researched |
-| 03 | [God of Balimwezo](books/03-god-of-balimwezo-series.md) | 3-volume series | Vol. 3 (Kingmaker) fully outlined & fact-checked |
-| 04 | [She Da Moon](books/04-she-da-moon.md) | Marriage/relationship message book | 4 flagship case studies fact-checked, structure question open |
-| 05 | [Cries to Mbale](books/05-cries-to-mbale.md) | Personal-witness / testimony book | 6-part structure + gratitude chapter drafted |
-| 06 | [When Agie Left](books/06-when-agie-left.md) | Personal-witness book, widened to universal principle | 3-part structure drafted |
-| 07 | [Retries](books/07-retries.md) | Series on persistence/trying again | Concept locked, celebrity examples removed, structure proposed |
-| 08 | [Die to Live](books/08-die-to-live.md) | Faith teaching book | 4-layer spine locked |
-| 09 | [AbleTech](books/09-abletech.md) | Book + companion tech company | Title + 4-part structure locked |
-| 10 | [Blind on Purpose](books/10-blind-on-purpose.md) | Wisdom/discipline book | Title, cover, 5-pillar structure locked |
+| # | Title | Project File | Front Matter |
+|---|-------|--------------|---------------|
+| 01 | Similar =/= Same | [books/01-similar-not-same.md](books/01-similar-not-same.md) | [front-matter/01](front-matter/01-similar-not-same-front-matter.md) |
+| 02 | The Chokepoint | [books/02-the-chokepoint-hormuz.md](books/02-the-chokepoint-hormuz.md) | [front-matter/02](front-matter/02-chokepoint-front-matter.md) |
+| 03 | God of Balimwezo (3 volumes) | [books/03-god-of-balimwezo-series.md](books/03-god-of-balimwezo-series.md) | [front-matter/03](front-matter/03-god-of-balimwezo-front-matter.md) |
+| 04 | She Da Moon | [books/04-she-da-moon.md](books/04-she-da-moon.md) | [front-matter/04](front-matter/04-she-da-moon-front-matter.md) |
+| 05 | Cries to Mbale | [books/05-cries-to-mbale.md](books/05-cries-to-mbale.md) | [front-matter/05](front-matter/05-cries-to-mbale-front-matter.md) |
+| 06 | When Agie Left | [books/06-when-agie-left.md](books/06-when-agie-left.md) | [front-matter/06](front-matter/06-when-agie-left-front-matter.md) |
+| 07 | Retries | [books/07-retries.md](books/07-retries.md) | [front-matter/07](front-matter/07-retries-front-matter.md) |
+| 08 | Die to Live | [books/08-die-to-live.md](books/08-die-to-live.md) | [front-matter/08](front-matter/08-die-to-live-front-matter.md) |
+| 09 | AbleTech | [books/09-abletech.md](books/09-abletech.md) | [front-matter/09](front-matter/09-abletech-front-matter.md) |
+| 10 | Blind on Purpose | [books/10-blind-on-purpose.md](books/10-blind-on-purpose.md) | [front-matter/10](front-matter/10-blind-on-purpose-front-matter.md) |
+
+## Repo Structure
+```
+bryt-ma-library/
+├── README.md              ← you are here
+├── MASTER-GUIDE.md         ← research & writing standards for all books
+├── books/                  ← concept, structure, and research notes per title
+└── front-matter/           ← cover copy, title, subtitle, intro, appendices per title
+```
 
 ## How to Use This Repo
-Each book file follows roughly the same shape: concept, locked decisions, structure/outline, research grounding (where relevant), open questions, and current status. Before starting a writing session on any title, read its file top to bottom — it should contain everything needed to continue without having to re-explain the concept from scratch.
+Each book stands on its own — open its `books/` file for the full structure and research grounding, and its `front-matter/` file for ready-to-use cover copy and introduction text. Before starting a writing session, skim the relevant section of `MASTER-GUIDE.md` for that title's research/accuracy requirements.
 
 ## Author
 Starboy — Bryt Ma Tech Uganda, Mbarara, Uganda.
