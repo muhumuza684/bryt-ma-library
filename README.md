@@ -31,7 +31,8 @@ bryt-ma-library/
 ├── PROGRESS.md             ← status tracker for all 10 titles
 ├── books/                  ← concept, structure, and research notes per title
 ├── front-matter/           ← cover copy, title, subtitle, intro, appendices per title
-└── SOURCES/                ← research notes for fact-heavy books (kept out of the manuscript itself)
+├── SOURCES/                ← research notes for fact-heavy books (kept out of the manuscript itself)
+└── PROMPTS/                ← master prompts for generating full manuscripts with an AI writing assistant
 ```
 
 ## How to Use This Repo
