@@ -1,4 +1,4 @@
-# PROGRESS TRACKER
+﻿# PROGRESS TRACKER
 
 Last updated: manually — update the "Last Touched" column and status whenever you work on a title.
 
@@ -15,9 +15,9 @@ Last updated: manually — update the "Last Touched" column and status whenever 
 |---|-------|--------|-------------------|---------------|-------|
 | 01 | Similar =/= Same | 🟢 Concept Locked | 0 / TBD per volume | — | 3-volume series; Vol. 1 (Love & Identity) is the recommended starting point |
 | 02 | The Chokepoint | 🟡 Researched | 0 / 3 scenarios | — | All 3 decision trees fully outlined and fact-checked |
-| 03 | God of Balimwezo — Vol. 1 | 🟢 Concept Locked | 0 / TBD | — | Devotional/testimony angle |
-| 03 | The Door Bobi Wine Opened — Vol. 2 | 🟢 Concept Locked | 0 / TBD | — | Balimwezo + Ssenyonyi |
-| 03 | Kingmaker — Vol. 3 | 🟡 Researched | 0 / 3 case studies | — | Fully outlined: Balimwezo, Nubian Li, Swengere |
+| 03 | God of Balimwezo — Vol. 1 | 🔵 Manuscript Complete | Combined into Omnibus | 2026-09-06 | Interior + cover production-ready; ISBN pending |
+| 03 | The Door Bobi Wine Opened — Vol. 2 | 🔵 Manuscript Complete | Combined into Omnibus | 2026-09-06 | Interior + cover production-ready; ISBN pending |
+| 03 | Kingmaker — Vol. 3 | 🔵 Manuscript Complete | Combined into Omnibus | 2026-09-06 | Interior + cover production-ready; ISBN pending |
 | 04 | She Da Moon | 🟡 Researched | 0 / 4 case studies | — | Structure question open: one book vs. split series |
 | 05 | Cries to Mbale | 🟢 Concept Locked | 0 / 6 parts | — | Personal witness — ready to draft anytime |
 | 06 | When Agie Left | 🟢 Concept Locked | 0 / 3 parts | — | Personal witness — ready to draft anytime |
