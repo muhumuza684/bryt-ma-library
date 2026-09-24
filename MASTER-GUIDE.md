@@ -1,7 +1,7 @@
 # MASTER GUIDE
 ### How to Research, Write, and Improve Every Book in This Library
 
-This guide applies across all ten titles. Read it once, fully, before starting work on any individual book — then return to the relevant section whenever you're stuck on research, accuracy, or direction.
+This guide applies across all fifteen titles. Read it once, fully, before starting work on any individual book — then return to the relevant section whenever you're stuck on research, accuracy, or direction.
 
 ---
 

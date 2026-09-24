@@ -5,7 +5,7 @@ A working library of book concepts, structures, front matter, sources, and resea
 ## Start Here
 1. Read [`MASTER-GUIDE.md`](MASTER-GUIDE.md): how to research each title, what to always add, what to always avoid.
 2. Read [`STYLE-GUIDE.md`](STYLE-GUIDE.md): the voice that should run across every book.
-3. Check [`PROGRESS.md`](PROGRESS.md): what's done, what's next, across all 15 book titles.
+3. Check [`PROGRESS.md`](PROGRESS.md): what's done, what's next, across all 11 book titles.
 
 ## Book Index
 
@@ -22,10 +22,6 @@ A working library of book concepts, structures, front matter, sources, and resea
 | 09 | AbleTech | [books/09](books/09-abletech.md) | [front-matter/09](front-matter/09-abletech-front-matter.md) | - | - |
 | 10 | Blind on Purpose | [books/10](books/10-blind-on-purpose.md) | [front-matter/10](front-matter/10-blind-on-purpose-front-matter.md) | - | - |
 | 11 | Everyone Has a Language | [books/11](books/11-everyone-has-a-language/) | - | - | [Book 11 Project Guides](books/11-everyone-has-a-language/FINAL_BOOK_3_LANGUAGE_PROJECT_GUIDES.zip) |
-| 12 | Someone Better | [books/12](books/12-someone-better/) | - | - | [Locked Concept](books/12-someone-better/) |
-| 13 | Lady Is a Man, Boy = Girl | [books/13](books/13-lady-is-a-man-boy-equals-girl/) | - | - | [Locked Concept](books/13-lady-is-a-man-boy-equals-girl/) |
-| 14 | The Day He Could Not Bury Her | [books/14](books/14-the-day-he-could-not-bury-her/) | - | Research required | [Locked Concept](books/14-the-day-he-could-not-bury-her/) |
-| 15 | When Time Comes | [books/15](books/15-when-time-comes/) | - | - | [Locked Concept](books/15-when-time-comes/) |
 
 ## Technology Course Library
 
@@ -48,11 +44,6 @@ The technology course library contains 11 structured technology course projects.
 The complete course package is preserved here: [FINAL_TECH_COURSE_LIBRARY_GUIDES.zip](courses/technology-course-library/FINAL_TECH_COURSE_LIBRARY_GUIDES.zip)
 
 Book 03, God of Balimwezo, is the first title in the library with finished, print-ready files: a complete interior PDF, a cover PDF sized for print (with spine width calculated from the actual page count), and a combined reading edition. See [books/god-of-balimwezo-omnibus](books/god-of-balimwezo-omnibus/) for all three.
-### Packaged / Master Editions
-
-| ID | Title | Location | Status |
-|---|---|---|---|
-| RIM | Rejections in Monaco | [books/rejections-in-monaco](books/rejections-in-monaco/) | Master edition packaged |
 
 ## Repo Structure
 ```
@@ -60,15 +51,10 @@ bryt-ma-library/
 ├── README.md              you are here
 ├── MASTER-GUIDE.md         research and writing standards for all books
 ├── STYLE-GUIDE.md          the voice across the whole library
-├── PROGRESS.md             status tracker for all 15 book titles
+├── PROGRESS.md             status tracker for all 11 book titles
 ├── books/                  concept, structure, research notes, and packaged book projects per title
 │   ├── 11-everyone-has-a-language/  packaged Book 11 project guides
 │   │   └── FINAL_BOOK_3_LANGUAGE_PROJECT_GUIDES.zip
-│   ├── 12-someone-better/           locked Book 12 project
-│   ├── 13-lady-is-a-man-boy-equals-girl/  locked Book 13 project
-│   ├── 14-the-day-he-could-not-bury-her/  locked Book 14 project
-│   ├── 15-when-time-comes/          locked Book 15 project
-│   ├── rejections-in-monaco/        master edition
 │   └── god-of-balimwezo-omnibus/   finished PDFs for the first completed title
 ├── courses/
 │   └── technology-course-library/

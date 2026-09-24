@@ -1,7 +1,7 @@
 # STYLE GUIDE
 ### The Voice Behind the Bryt Ma Library
 
-This guide describes the voice that runs across all ten books, so that any chapter — whether drafted today or a year from now, by the author or with help — sounds like it belongs in the same library.
+This guide describes the voice that runs across all fifteen books, so that any chapter — whether drafted today or a year from now, by the author or with help — sounds like it belongs in the same library.
 
 ---
 
